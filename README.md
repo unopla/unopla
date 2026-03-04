@@ -42,7 +42,7 @@ Cada função, classe e arquivo com seu lugar certo. Nada de “gambiarra” que
 ## 🔥 Meus projetos
 Projetos que realmente usei ou estudei:  
 
-- [Libelle]](https://github.com/tiago-coletti/libelle) – Sistema web em Java + Spring Boot  
+- [Libelle](https://github.com/tiago-coletti/libelle) – Sistema web em Java + Spring Boot  
 
 
 *(Atualizando conforme novos projetos surgem)*  
