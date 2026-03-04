@@ -70,7 +70,6 @@ Projetos que realmente usei ou estudei:
 ---
 
 ## 📬 Contato
-- ✉️ Email: kelvin.adam.arcari@gmail.com  
-- 🌐 GitHub: [github.com/KelvinAdam](https://github.com/KelvinAdam)  
+- ✉️ Email: kelvinarcari@gmail.com   
 
 Sempre aberto a **trocar ideias, aprender coisas novas e organizar projetos**.
