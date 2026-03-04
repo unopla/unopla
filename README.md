@@ -42,10 +42,8 @@ Cada função, classe e arquivo com seu lugar certo. Nada de “gambiarra” que
 ## 🔥 Meus projetos
 Projetos que realmente usei ou estudei:  
 
-- [Libelle](https://github.com/seu-usuario/libelle) – Sistema web em Java + Spring Boot  
-- [POO Estudonauta](https://github.com/seu-usuario/poo_estudonauta) – Exercícios de POO  
-- [Projetos de HTML/CSS/JS](https://github.com/seu-usuario) – Experimentos e estudos  
-- [Projetos PHP](https://github.com/seu-usuario) – Scripts, APIs e pequenos sistemas  
+- [Libelle]([https://github.com/seu-usuario/libelle](https://github.com/tiago-coletti/libelle)) – Sistema web em Java + Spring Boot  
+
 
 *(Atualizando conforme novos projetos surgem)*  
 
