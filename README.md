@@ -24,7 +24,7 @@ Cada função, classe e arquivo com seu lugar certo. Nada de “gambiarra” que
 - 🐘 PHP  
 - 🌱 Spring Boot  
 - 🛡️ APIs REST  
-- 🗄️ MySQL / H2  
+- 🗄️ MySQL
 
 **Frontend**  
 - 🌐 HTML / CSS / JavaScript  
